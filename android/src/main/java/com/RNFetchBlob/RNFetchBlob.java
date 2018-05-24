@@ -4,6 +4,8 @@ import android.app.Activity;
 import android.app.DownloadManager;
 import android.content.Intent;
 import android.net.Uri;
+import android.content.pm.PackageManager;
+import android.os.Build;
 import android.util.SparseArray;
 
 import com.facebook.react.bridge.ActivityEventListener;
