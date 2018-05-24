@@ -7,6 +7,7 @@ import android.net.Uri;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.util.SparseArray;
+import android.support.v4.content.FileProvider;
 
 import com.facebook.react.bridge.ActivityEventListener;
 import com.facebook.react.bridge.Callback;
